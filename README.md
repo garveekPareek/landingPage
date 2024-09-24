@@ -1,0 +1,1 @@
+This is a simple landing page project that I created, taking reference from a design on Dribbble. I chose to use the CSS Grid layout instead of Flexbox for this project. The reason for opting for Grid is that it is a 2D layout system, which allows for the simultaneous targeting of both the main and cross axes, whereas Flexbox is a 1D layout system.
